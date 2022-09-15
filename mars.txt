@@ -3,4 +3,4 @@ The two moons
 mummy
 maybe base
 asdf
-different line
+conflict resolved
